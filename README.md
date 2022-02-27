@@ -13,7 +13,7 @@ Performance of green stocks in 2017 and 2018.
 ### Comparison of 2017 and 2018 Stock Performance
 The “Ticker” column references the stock symbol assigned to a stock. The “Total Daily Volume” column highlights how many shares were traded per day. The “Return” column indicates the change in price of an investment over time and is represented by a percentage change. A positive return represents a profit and is shown on the table in green, while a negative return represents an economic loss and is shown on the table in red. Through the use of conditional formatting in VBA, the cell color in the “Return” column is automatically updated to green or red, depending on the outcome of the return, which simplifies interpretation of the data and enhances analysis.
 
-![VBA_Challenge_2017](VBA_Challenge_2017.png) ![VBA_Challenge_2018]VBA_Challenge_2018.png
+![VBA_Challenge_2017](VBA_Challenge_2017.png) 17 ![VBA_Challenge_2018]VBA_Challenge_2018.png
 
 The most visible difference is that in 2017 all but one stock (Ticker: TERP) had positive returns, while in 2018 all but two stocks (Tickers: ENHP and RUN) had negative returns. The data shows that two stocks (Tickers: ENPH and RUN) would have been good investments, as they had positive returns in 2017 and 2018. 
 
