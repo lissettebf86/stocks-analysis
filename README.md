@@ -6,7 +6,6 @@ This project analyzes thousands of green energy stocks from 2017 and 2018, throu
 ### Purpose
 The purpose of this project is to compare the stock performance between 2017 and 2018. execution times of the original script and the refactored script.
 
-
 ## Results
 Performance of green stocks in 2017 and 2018.
 
@@ -17,13 +16,8 @@ The “Ticker” column references the stock symbol assigned to a stock. The “
 
 ### Comparison of VBA Code Utilized to Run Analysis
 
-To run the analysis, a detailed script of code had to be written in VBA. The original script was initially written and later refactored, with the intent to maximize the efficiency of the run time for the pop-up messages, after running analyses for 2017 and 2018. The original code included a nested for loop, which is essentially a loop inside of a loop, that tells the computer to repeat lines of code for as many loops outlined. In contrast, the refactored code was developed to loop through all the data one time in order to collect the same information as before. 
-
-### Comparison of Code Performance 
-The original and refactored code both include a script that calculates how long the code takes to compile results and outputs the elapsed time in a message box.
+To run the analysis, a detailed script of code had to be written in VBA. The original script was initially written and later refactored, with the intent to maximize the efficiency of the run time for the pop-up messages, after running analyses for 2017 and 2018. The original code included a nested for loop, which is essentially a loop inside of a loop, that tells the computer to repeat lines of code for as many loops outlined.the refactored code was developed to loop through all the data one time in order to collect the same information as before. 
 
 ## Summary
 
-The main advantage of refactoring code is that it maximizes overall efficiency, through streamlining code and therefore reducing run times. A major disadvantage of having to rewrite code which already works is that it may not always be evident as to how to effectively do this, without running in to numerous run time errors which involve debugging the code.
-The pros and cons outlined above directly applied to refactoring the original VBA script. Although the code had to constantly be debugged in order to effectively run, ultimately the code was more organized and ran more efficiently, allowing proper analysis of the data.   
-
+The pros and cons outlined above directly applied to refactoring the original VBA script. Although the code had to constantly be debugged in order to effectively run, ultimately the code was more organized and ran more efficiently, allowing proper analysis of the data.  The main advantage of refactoring code is that it maximizes overall efficiency, through streamlining code and therefore reducing run times. A major disadvantage of having to rewrite code which already works is that it may not always be evident as to how to effectively do this, without running in to numerous run time errors which involve debugging the code.
