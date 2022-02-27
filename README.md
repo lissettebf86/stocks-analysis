@@ -15,23 +15,12 @@ The “Ticker” column references the stock symbol assigned to a stock. The “
 
 ![VBA_Challenge_2017](VBA_Challenge_2017.png) ![VBA_Challenge_2018](VBA_Challenge_2018.png)
 
-The most visible difference is that in 2017 all but one stock (Ticker: TERP) had positive returns, while in 2018 all but two stocks (Tickers: ENHP and RUN) had negative returns. The data shows that two stocks (Tickers: ENPH and RUN) would have been good investments, as they had positive returns in 2017 and 2018. 
-
 ### Comparison of VBA Code Utilized to Run Analysis
 
 To run the analysis, a detailed script of code had to be written in VBA. The original script was initially written and later refactored, with the intent to maximize the efficiency of the run time for the pop-up messages, after running analyses for 2017 and 2018. The original code included a nested for loop, which is essentially a loop inside of a loop, that tells the computer to repeat lines of code for as many loops outlined. In contrast, the refactored code was developed to loop through all the data one time in order to collect the same information as before. 
 
-
-
 ### Comparison of Code Performance 
 The original and refactored code both include a script that calculates how long the code takes to compile results and outputs the elapsed time in a message box.
-
-
-
-
-
-
-
 
 ## Summary
 
