@@ -1,7 +1,7 @@
 # Stocks-Analysis
 
 ## Overview of Project
-This project analyzes thousands of green energy stocks from 2017 and 2018, through the utilization of Visual Basic for Applications (VBA), a programming language that interacts with excel by using macro code to automate analyses. 
+This project analyzes thousands of green energy stocks from 2017 and 2018, through the utilization of VBA, a programming language that interacts with excel by using macro code to automate analyses. 
 
 ### Purpose
 The purpose of this project is to compare the stock performance between 2017 and 2018. execution times of the original script and the refactored script.
